@@ -1,0 +1,66 @@
+{
+    "fruits": [
+        {
+            "id": 1,
+            "name": "Apple",
+            "category": "Fruit",
+            "color" : "red"
+        },
+        {
+            "id": 2,
+            "name": "Tangerine",
+            "category": "Fruit",
+            "color" : "orange"
+        },
+        {
+            "id": 3,
+            "name": "Plum",
+            "category": "Fruit",
+            "color" : "dark purple"
+        },
+        {
+            "id": 4,
+            "name": "Grape",
+            "category": "Fruit",
+            "color" : "purple"
+        },
+        {
+            "id": 5,
+            "name": "Mango",
+            "category": "Fruit",
+            "color" : "mango"
+        }
+    ],
+    "vegetables": [
+        {
+            "id": 1,
+            "name": "Pea",
+            "category": "Vegetable",
+            "color" : "green"
+        },
+        {
+            "id": 2,
+            "name": "Broccoli",
+            "category": "Vegetable",
+            "color" : "dark green"
+        },
+        {
+            "id": 3,
+            "name": "Spinach",
+            "category": "Vegetable",
+            "color" : "dark green"
+        },
+        {
+            "id": 4,
+            "name": "Potato",
+            "category": "Vegetable",
+            "color" : "beige"
+        },
+        {
+            "id": 5,
+            "name": "Kale",
+            "category": "Vegetable",
+            "color" : "dark green"
+        }
+    ]
+}
