@@ -4,31 +4,31 @@
             "id": 1,
             "name": "Apple",
             "category": "Fruit",
-            "color" : "red"
+            "color" : "#FF0000"
         },
         {
             "id": 2,
             "name": "Tangerine",
             "category": "Fruit",
-            "color" : "orange"
+            "color" : "#FF7F32"
         },
         {
             "id": 3,
             "name": "Plum",
             "category": "Fruit",
-            "color" : "dark purple"
+            "color" : "#6A2C8B"
         },
         {
             "id": 4,
             "name": "Grape",
             "category": "Fruit",
-            "color" : "purple"
+            "color" : "#6F2DA8"
         },
         {
             "id": 5,
             "name": "Mango",
             "category": "Fruit",
-            "color" : "mango"
+            "color" : "#FFB300"
         }
     ],
     "vegetables": [
@@ -36,31 +36,31 @@
             "id": 1,
             "name": "Pea",
             "category": "Vegetable",
-            "color" : "green"
+            "color" : "#8A9A5B"
         },
         {
             "id": 2,
             "name": "Broccoli",
             "category": "Vegetable",
-            "color" : "dark green"
+            "color" : "#4C9A2A"
         },
         {
             "id": 3,
             "name": "Spinach",
             "category": "Vegetable",
-            "color" : "dark green"
+            "color" : "#2E8B57"
         },
         {
             "id": 4,
             "name": "Potato",
             "category": "Vegetable",
-            "color" : "beige"
+            "color" : "#D2B48C"
         },
         {
             "id": 5,
             "name": "Kale",
             "category": "Vegetable",
-            "color" : "dark green"
+            "color" : "#3A5A40"
         }
     ]
 }
